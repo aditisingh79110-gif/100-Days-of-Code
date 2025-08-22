@@ -5,7 +5,9 @@
 
 Welcome to the 100 Days of Code journey fueled by UPES!
 ---
-This repository contains all the C programs I’m practicing daily to improve my coding, problem-solving, and consistency skills. 💻🔥
+This repository contains C programs.
+--
+I’m practicing daily to improve my coding, problem-solving, and consistency skills. 💻🔥
 Each day has a dedicated file containing a C Program
 ---
 
